@@ -1,0 +1,94 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "ChainLink",
+      "symbol": "LINK",
+      "address": "0x71b894957FE11F7D94d0D91Cfef74735CE21A534",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Collect Coin",
+      "symbol": "CCT",
+      "address": "0x86157fa3f01180C5E7E9921D3fd56492F9baf7F5",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0xB3CA541735D756cE6cF35Cb3f352AbFe5A8e8761",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "address": "0xA174903C93488a64C036EC2Bba893BbEe3AacEcB",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Tether Coin",
+      "symbol": "USDT",
+      "address": "0xD4DF4Fdb80054b8f8Ee95b4A09D7385dC3B126e7",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0xA492924AC6125B03D825C10f5Ae3411C9849a06B",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "TXL",
+      "symbol": "TXL",
+      "address": "0xE0A09A2Edaff2ca0489DDA91d1d09803A494c235",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "address": "0x6479f86882f5742bE5C7BFA81aA014D5022127F1",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "COS",
+      "symbol": "COS",
+      "address": "0x529fb5555ee46068259bF636ad5AA3b328e45b27",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "BUNNY",
+      "symbol": "BUNNY",
+      "address": "0x6b8e8069fD30A46b59827EEEDD284F15cFD4A8CB",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    }
+  ]
+}
