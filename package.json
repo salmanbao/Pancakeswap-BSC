@@ -29,7 +29,7 @@
     ]
   },
   "engines":{
-    "node": "v12.22.6"
+    "node": "=12.22.6"
   },
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
