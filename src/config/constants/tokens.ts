@@ -1738,7 +1738,8 @@ export const testnetTokens = {
 }
 
 const tokens = (): TokenList => {
-  const chainId = process.env.REACT_APP_CHAIN_ID
+  // const chainId = process.env.REACT_APP_CHAIN_ID
+  const chainId = '97'
 
   // If testnet - return list comprised of testnetTokens wherever they exist, and mainnetTokens where they don't
   if (parseInt(chainId, 10) === ChainId.TESTNET) {
